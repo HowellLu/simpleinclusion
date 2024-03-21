@@ -1,7 +1,7 @@
 # simplyincluded
-An easy way to apply a simple inclusion criteria to a Pandas Dataframe to maximize an objective function.
+An easy way to apply a simple inclusion criteria to a Pandas Dataframe to maximize an objective function. Uses a hyvrid of
 
-This is a simple method that generates a ruleset that subsets a Pandas DataFrame with the express intent to maximize an objective value.
+This is a simple method that generates a ruleset that subsets a Pandas DataFrame with the express intent to maximize an objective value. It's a hybrid genetic algorithm and particle swarm optimization algorithm to generate exclusion criteria. 
 
 You can simply use it by: 
 
